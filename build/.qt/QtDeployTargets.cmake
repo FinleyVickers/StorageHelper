@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_StorageHelper_FILE /Users/finleyv/Desktop/Code/StorageHelper/build/StorageHelper)
+set(__QT_DEPLOY_TARGET_StorageHelper_TYPE EXECUTABLE)
